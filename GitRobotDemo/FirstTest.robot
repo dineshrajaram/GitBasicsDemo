@@ -1,3 +1,3 @@
 *** Test Cases ***
 TC001
-    log    pass
+    log    modifying master branch
